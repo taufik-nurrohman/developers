@@ -1,24 +1,31 @@
 ---
 description: >-
   Imgpx is an image proxy that can be used to get every images on the web by
-  providing an URL.
+  providing an URL. It's fast and advanced. Imgpx also can be used for edit the
+  images on the fly.
 ---
 
 # Imgpx
 
-## Getting Super Fast
+### Getting Started
 
-Learn about imaging, with Imgpx, you can improve the images delivered to users.
+Learn about imaging, with Imgpx, you can improve the image load.
 
 ```
-GET https://imgpx.marsble.com/:REMOTE_IMAGE_URL
+GET https://img.staticaly.com/:REMOTE_IMAGE_URL
 ```
+
+### Misc
 
  You can also get random images with Imgpx.
 
 ```
-GET https://imgpx.marsble.com/random
+GET https://img.staticaly.com/random
 ```
 
+Or get food with:
 
+```text
+GET https://img.staticaly.com/food
+```
 

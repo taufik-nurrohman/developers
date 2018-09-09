@@ -18,7 +18,7 @@ This endpoint allows you to get free cakes.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="KEY" type="string" %}
+{% api-method-parameter name="KEY" type="string" required=true %}
 API Key for auth the API.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
