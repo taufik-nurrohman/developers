@@ -12,7 +12,7 @@ description: >-
 Learn about imaging, with Imgpx, you can improve the image load.
 
 ```
-GET https://img.staticaly.com/:REMOTE_IMAGE_URL
+GET https://cdn.staticaly.com/img/:REMOTE_IMAGE_URL
 ```
 
 ### Misc
@@ -20,12 +20,12 @@ GET https://img.staticaly.com/:REMOTE_IMAGE_URL
  You can also get random images with Imgpx.
 
 ```
-GET https://img.staticaly.com/random
+GET https://cdn.staticaly.com/img/random
 ```
 
 Or get food with:
 
 ```text
-GET https://img.staticaly.com/food
+GET https://cdn.staticaly.com/img/food
 ```
 
