@@ -7,19 +7,19 @@ description: >-
 
 # Imgpx
 
-### Getting Started
+## Getting Started
 
 Learn about imaging, with Imgpx, you can improve the image load.
 
-```
+```text
 GET https://cdn.staticaly.com/img/:REMOTE_IMAGE_URL
 ```
 
-### Misc
+## Misc
 
- You can also get random images with Imgpx.
+You can also get random images with Imgpx.
 
-```
+```text
 GET https://cdn.staticaly.com/img/random
 ```
 

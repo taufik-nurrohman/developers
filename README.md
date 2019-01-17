@@ -1,9 +1,3 @@
----
-description: >-
-  On this developer page, you will learn how to use the API, App and other
-  programming on Marsble.
----
-
 # Welcome to Developers page
 
 {% api-method method="get" host="https://apis.marsble.com" path="/geoip/v1/geoip?api\_key=:KEY" %}

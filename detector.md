@@ -1,10 +1,3 @@
----
-description: >-
-  This Detector API let you detects for devices (desktop, tablet, mobile, tv,
-  cars, console, etc.) clients (browsers, feed readers, media players, PIMs,
-  ...), operating systems, brands and models.
----
-
 # Detector
 
 {% api-method method="get" host="https://apis.marsble.com" path="/detector/v1/detector?api\_key=:API\_KEY" %}
